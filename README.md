@@ -18,3 +18,6 @@
 - ls
 
 - python FILE-CLONING.py
+#
+
+[![20230803-102523.jpg](https://i.postimg.cc/VN00Y8s7/20230803-102523.jpg)](https://postimg.cc/rdcwJ7rW)
