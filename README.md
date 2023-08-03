@@ -1,4 +1,5 @@
 ## INSTALLING MY TOOLS
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=FILE-CLONING+%F0%9F%98%8D)](https://git.io/typing-svg)
 #
  - apt update
 
