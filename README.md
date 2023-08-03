@@ -10,3 +10,10 @@
 
  - pkg install git
    
+- git clone https://github.com/Rabbi-King-007/FILE-CLONE.git
+
+- cd FILE-CLONE
+
+- ls
+
+- python FILE-CLONING.py
